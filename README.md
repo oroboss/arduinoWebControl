@@ -1,4 +1,6 @@
-arduinoWebControl
+arduinoWebControl 
 =================
 
-control arduino UNO [ webserver, websocketserver, timers, NTP time, servos, datalog, ...] in your home over internet
+Arduino UNO loaded with web-server, websocket-server, timers, NTP time, servo-control, datalog, statistics, ..
+
+- controlled over the internet using AJAX calls, websocket 
